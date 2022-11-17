@@ -1,0 +1,9 @@
+body{
+    line-height: 2;
+}
+table{
+    border: black 1px solid;
+}
+td, th{
+    border: black 1px solid;
+}
