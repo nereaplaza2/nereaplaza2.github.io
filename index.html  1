@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <title>Document</title>
+</head>
+<body>
+    <header id="header">
+        <!--resume header with your name and title -->
+        <h1><b> El Teatro Anterior </b> a 1936</h1>
+        <hr>
+        Gran cantidad de obras estrenadas - el público acude en masa al teatro (1400 obras).
+        Solo en la temporada de 1919-1920.
+        <table>
+
+            <caption><strong>Principales Autores y Tendencias</strong>
+                
+                <thead>
+                    <tr>
+                        <th>Autores Realistas</th>
+                        <th>Generación de Fin de Siglo</th>
+                        <th>Generación del 14</th>
+                        <th>Generación del 27</th>
+                    </tr>
+                </thead>
+                <tr>
+                    <td>Galdós</td>
+                    <td>Benavente,Arniches,Unamuno..</td>
+                    <td>Gómez de la Serra</td>
+                    <td>Alberti,Lorca...</td>
+                </tr>
+        </table>
+
+    </header>
+    <strong><ins>El teatro de Lorca</ins></strong> 
+    <p>Federico García Lorca (1898-1936) junto con Rafael Alberti , es el principal dramaturgo del 27 . En su obra dramática senpueden distinguir cuatro bloques :  </p>
+    <ul>
+        <li>Primeras obras</li> <em><ins>El maleficio de la mariposa</ins></em> (1921) y <em><ins>Mariana Pineda</ins></em> (1927)
+        <li>Farsas</li> Obras para personas : <em><ins>La zapatera prodigiosa</ins></em> (1930) <P>Obras para guiñoles : <em><ins>Retablillo de don Cristóbal</ins></em> (1928)</P>
+        <li>Teatro de vanguardia , experimental o simbólico</li> <em><ins>El público</ins></em> (1930) y <em><ins>Así que pasen cinco años</ins></em> (1931)
+        <li>Teatro mayor</li> <em><ins>Bodas de Sangre</ins></em>(1933) <em><ins>Yerma</ins></em> (1934) y <em><ins>La casa de Bernarda Alba</ins> </em> (1936)
+
+    </ul>
+    <img  src="img/Lorca-Color-Dest-Web.jpg"
+            
+        
+        
+
+
+        
+    
+</body>
+</html>
